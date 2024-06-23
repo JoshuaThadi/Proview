@@ -7,8 +7,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    
-    <link rel="stylesheet" href="/Proview/index.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/index.css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
@@ -36,11 +40,58 @@
         }
 
         .jumbotron {
-            background-color: #2863bc;
-            color: #fff;
+            position: relative;
+            background-image: url('laptop.jpg');
+            background-size: cover;
+            background-position: center;
+            color: white;
+            /* Text color */
+            height: 500px;
+            /* Adjust height as needed */
             padding: 100px 25px;
-            font-family: Montserrat, sans-serif;
+            /* Adjust padding as needed */
         }
+
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0.3, 0.5);
+            /* Adjust transparency here */
+        }
+
+        .jumbotron h1,
+        .jumbotron p,
+        .jumbotron .btn {
+            position: relative;
+            z-index: 1;
+            /* Ensure content is above the overlay */
+        }
+
+        .btn-primary a {
+            color: white;
+            /* Button text color */
+        }
+
+        .btn-primary a:hover {
+            color: white;
+            /* Button text color on hover */
+        }
+
+
+        .btn-primary a {
+            color: white;
+            text-decoration: none;
+            /* To remove underline */
+        }
+
+        .btn-primary a:hover {
+            color: white;
+            /* Ensure hover color is also white */
+        }
+
 
         .container-fluid {
             padding: 60px 50px;
@@ -190,6 +241,56 @@
             visibility: visible;
         }
 
+        .jumbotron h1 {
+            font-size: 48px;
+            margin-bottom: 20px;
+            /* Adjust spacing as needed */
+        }
+
+        .jumbotron p {
+            font-size: 24px;
+            margin-bottom: 20px;
+            /* Adjust spacing as needed */
+        }
+
+        .jumbotron .btn {
+            font-size: 18px;
+            padding: 10px 20px;
+            /* Adjust padding as needed */
+        }
+
+        .btn-primary a {
+            color: white;
+        }
+
+        .btn-primary a:hover {
+            color: white;
+        }
+
+        .btn-custom {
+            background-color: #1e65f4;
+            /* Dark blue color */
+            border-color: #1e65f4;
+            /* Matching border color */
+        }
+
+        .btn-custom a {
+            color: white;
+        }
+
+        .btn-custom:hover {
+            background-color: #1e49b3;
+            /* Darker blue on hover */
+            border-color: #1e49b3;
+            /* Matching border color on hover */
+        }
+
+        .btn-custom:hover a {
+            color: white;
+            /* Maintain white text on hover */
+        }
+
+
         @keyframes slide {
             0% {
                 opacity: 0;
@@ -253,16 +354,21 @@
                     <li><a href="#services">SERVICES</a></li>
                     <li><a href="#portfolio">PORTFOLIO</a></li>
                     <li><a href="#pricing">PRICING</a></li>
-                    
+
             </div>
         </div>
     </nav>
 
-    <div class="jumbotron text-center">
-        <h1><b>{Proview}</b></h1>
-        <p>We specialize in blogs</p>
-        
+    <div class="jumbotron text-center" style="position: relative;">
+        <div class="overlay"></div>
+        <h1 style="font-size: 48px;"><b>{Proview}</b></h1>
+        <p style="font-size: 24px;"><b>We specialize in blogs</b></p>
+        <button class="btn btn-custom"><a href="/Proview/index.html">Go To Home</a></button>
     </div>
+
+
+
+
 
     <!-- Container (About Section) -->
     <div id="about" class="container-fluid">
@@ -314,17 +420,17 @@
             <div class="col-sm-4">
                 <span class="glyphicon glyphicon-off logo-small"></span>
                 <h4>POWER</h4>
-            
+
             </div>
             <div class="col-sm-4">
                 <span class="glyphicon glyphicon-heart logo-small"></span>
                 <h4>LOVE</h4>
-                
+
             </div>
             <div class="col-sm-4">
                 <span class="glyphicon glyphicon-lock logo-small"></span>
                 <h4>JOB DONE</h4>
-                
+
             </div>
         </div>
         <br><br>
@@ -332,17 +438,17 @@
             <div class="col-sm-4">
                 <span class="glyphicon glyphicon-leaf logo-small"></span>
                 <h4>GREEN</h4>
-                
+
             </div>
             <div class="col-sm-4">
                 <span class="glyphicon glyphicon-certificate logo-small"></span>
                 <h4>CERTIFIED</h4>
-                
+
             </div>
             <div class="col-sm-4">
                 <span class="glyphicon glyphicon-wrench logo-small"></span>
                 <h4 style="color:#303030;">HARD WORK</h4>
-                
+
             </div>
         </div>
     </div>
@@ -478,7 +584,7 @@
         </div>
     </div>
 
-    
+
     <!-- Image of location/map -->
     <img src="wall 1 (7).png" class="w3-image w3-greyscale-min" style="width:100%">
 
