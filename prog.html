@@ -10,10 +10,10 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
- <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
-    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
+
     <link rel="stylesheet" href="/Proview/index.css">
 
     <title>PROVIEW TECNOGRAPH!</title>
@@ -25,12 +25,12 @@
 
     <!-- Navbar -->
 
-    <div class="text-center bg-primary text-white rounded">
+    <div class="text-center bg-primary text-white">
         <h1>..................</h1>
-        <h2>Proview</h2>
-        <p>We specialize in blogs</p>
+        <h2><b>Proview</b></h2>
+        <p><b>We specialize in blogs</b></p>
 
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark rounded-down">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark rounded-top">
             <a class="navbar-brand rounded" href="#"><img src="Screenshot 2024-04-26 144357.png" alt="" width="30"
                     height="30"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -68,17 +68,13 @@
                     </li>
                 </ul>
 
-                <form class="form-inline my-2 my-lg-0">
-                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-outline-light my-2 my-sm-0" type="submit">Search</button>
-                </form>
+                
                 <div class="mx-2">
                     <button class="btn btn-primary" data-toggle="modal" data-target="#LoginModal">Login</button>
                     <button class="btn btn-primary" data-toggle="modal" data-target="#SignUpModal">Sign Up</button>
                 </div>
             </div>
         </nav>
-    
         <!-- Login Modal -->
         <div class="modal fade" id="LoginModal" tabindex="-1" role="dialog" aria-labelledby="LoginModalLabel"
             aria-hidden="true">
@@ -166,16 +162,21 @@
 
 
     <div class="jumbotron jumbotron-fluid text-white bg-dark">
-        <div class="col-md-6">
-            <h1 class="display-4 font-italic">This Website will showcast about Programming</h1>
-            <p class="lead my-3"> programming is giving a set of instructions to a computer to execute. If you've ever
-                cooked using a recipe before, you can think of yourself as the computer and the recipe's author as a
-                programmer.</p>
-            <p class="lead mb-0"><a
-                    href="https://www.codecademy.com/article/what-is-programming#:~:text=Put%20simply%2C%20programming%20is%20giving,recipe's%20author%20as%20a%20programmer."
-                    class="text-white font-weight-bold"> -> Continue to website...</a></p>
+        <div class="container"> <!-- Added container to center align content -->
+            <div class="row justify-content-center"> <!-- Added row and justify-content-center -->
+                <div class="col-md-9 text-center"> <!-- Adjusted column size and added text-center -->
+                    <h1 class="display-5 "><b>This Website will showcase about Programming</b></h1>
+                    <p class="lead my-3 font-italic">Programming is giving a set of instructions to a computer to execute. If you've ever
+                        cooked using a recipe before, you can think of yourself as the computer and the recipe's author as a
+                        programmer.</p>
+                    <a class="btn btn-primary btn-lg"
+                        href="https://www.codecademy.com/article/what-is-programming#:~:text=Put%20simply%2C%20programming%20is%20giving,recipe's%20author%20as%20a%20programmer."
+                        role="button">Continue to website</a>
+                </div>
+            </div>
         </div>
     </div>
+    
 
 
     <!-- Footer -->
