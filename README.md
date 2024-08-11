@@ -11,11 +11,11 @@
 <a href="https://linkedin.com/in/linkedin.com/in/joshua-thadi-77031b277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/joshua-thadi-77031b277" height="30" width="40" /></a>
 </p>
 
-<div align="left">
+<div align="left" width="200">
 <img src="https://github.com/JoshuaThadi/Proview/blob/main/Screenshot%202024-08-11%20185903.png">
 </div>
-<div align="right">
-    <img src="">
+<div align="right" width="200">
+    <img src="https://github.com/JoshuaThadi/Proview/blob/main/Screenshot%202024-08-11%20185937.png">
 </div>
 
 <div align="center">
