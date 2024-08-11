@@ -7,6 +7,11 @@
 
 <h3 align="center">💡 Just a plain project where you can explore courses.</h3>
 
+<center>
+        <p class="lead text-dark"><b>📱 This is a simple Blog page, a Blog about technology component for
+            extra attention to featured content or information.</b></p>
+      </center>
+
 <div align="center">
     <img align="left" alt="image" width="400" src="https://github.com/JoshuaThadi/Proview/blob/main/Screenshot%202024-08-11%20185903.png">
     <img align="left" alt="image" width="400" src="https://github.com/JoshuaThadi/Proview/blob/main/Screenshot%202024-08-11%20185937.png">
