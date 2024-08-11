@@ -12,7 +12,7 @@
 </p>
 
 <div align="left">
-<img src="">
+<img src="https://github.com/JoshuaThadi/Proview/blob/main/Screenshot%202024-08-11%20185903.png">
 </div>
 <div align="right">
     <img src="">
