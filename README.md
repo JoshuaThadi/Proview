@@ -12,7 +12,7 @@
     <img align="left" alt="image" width="400" src="https://github.com/JoshuaThadi/Proview/blob/main/Screenshot%202024-08-11%20185937.png">
 </div>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🧲 Connect with me:</h3>
 <p align="center">
     <a href="https://linkedin.com/in/joshua-thadi-77031b277" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/joshua-thadi-77031b277" height="30" width="40" />
@@ -20,7 +20,7 @@
 </p>
 
 <div align="center">
-    <h4>Proview Website Link:</h4>
+    <h4>🌐 Proview Website Link:</h4>
     
    [![PROVIEW](https://img.shields.io/badge/PROVIEW-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://joshuathadi.github.io/Proview/)
 
