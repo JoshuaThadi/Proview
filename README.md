@@ -21,11 +21,16 @@
 
 <div align="center">
     <h4>Proview Website Link:</h4>
-    <a href="https://joshuathadi.github.io/Proview/">PROVIEW.com</a>
+    
+   [![PROVIEW](https://img.shields.io/badge/PROVIEW-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://joshuathadi.github.io/Proview/)
+
 </div>
 
+<div>
+    <p>
+        
+</p>
+</div>
 
-<center>
-        <p class="lead text-dark"><b>📱 This is a simple Blog page, a Blog about technology component for
-            extra attention to featured content or information.</b></p>
-      </center>
+<p class="lead text-dark"><b>📱 This is a simple Blog page, a Blog about technology component for
+extra attention to featured content or information.</b></p>
