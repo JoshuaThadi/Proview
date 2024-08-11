@@ -24,5 +24,5 @@
     font-weight: bold;
     text-align: center;
     transition: background-color 0.3s, color 0.3s;
-">PROVIEW</a>
+">PROVIEW.com</a>
 </div>
