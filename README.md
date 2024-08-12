@@ -39,8 +39,15 @@ extra attention to featured content or information.</b></p>
 
 <br/>
 
-<br>
+
 <div align="center">
-    <img align="left" alt="image" width="500" src="">
+    <img align="center" alt="image" width="90" src="https://github.com/JoshuaThadi/Proview/blob/main/bootstrap-img.png">
+    <h3> * Bootstrap * </h3>
+    <br/>
+    <p> 🚀 Conducted the project with bootstrap 4.4v.</p>
+    <br/>
+    <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg" alt="Bootstrap" style="background-color: #563d7c; border-radius: 5px; padding: 5px;" height="30" width="40" />
+    </a>
+
 </div>
-<br/>
