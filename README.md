@@ -16,6 +16,12 @@
 
 <br/>
 
+<div>
+    <p>
+        <br/>
+    </p>
+</div>
+
 <h3 align="center">🧲 Connect with me:</h3>
 <p align="center">
     <a href="https://linkedin.com/in/joshua-thadi-77031b277" target="_blank">
