@@ -25,7 +25,8 @@
 <div align="center">
     <h3>🌐 Proview Website Link:</h3>
     
-   [![PROVIEW](https://img.shields.io/badge/PROVIEW-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://joshuathadi.github.io/Proview/)
+   [![PROVIEW](https://img.shields.io/badge/PROVIEW-1E90FF?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://joshuathadi.github.io/Proview/)
+
 
 </div>
 
