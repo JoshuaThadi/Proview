@@ -14,14 +14,6 @@
 </div>
 <br/>
 
-<br/>
-
-<div>
-    <p>
-        <br/>
-    </p>
-</div>
-
 <h3 align="center">🧲 Connect with me:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/joshuathadi" target="_blank">
