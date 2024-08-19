@@ -31,10 +31,9 @@
 
 <div align="center">
     <h3>🌐 Proview Website Link:</h3>
-    
-   [![PROVIEW](https://img.shields.io/badge/PROVIEW-1E90FF?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://joshuathadi.github.io/Proview/)
-
-
+   <a href="https://joshuathadi.github.io/Proview/">
+        <img width="200px" src="https://img.shields.io/badge/PROVIEW-1E90FF?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="PROVIEW">
+    </a>
 </div>
 
 <h3 align="center">📍 Focusing on web development (Front-end Platform).</h3>
@@ -48,6 +47,7 @@ extra attention to featured content or information.</b></p>
     <h3> * Bootstrap * </h3>
     <p> 🚀 Conducted the project with bootstrap 4.4v.</p>
     
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-
+<a href="https://getbootstrap.com">
+    <img width="200px" src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</a>
 </div>
