@@ -41,5 +41,5 @@ extra attention to featured content or information.</b></p>
 </div>
 
 <div align="center">
-    <img align="left" alt="image" width="400" src="https://github.com/JoshuaThadi/Proview/blob/main/Screenshot%202024-08-11%20185937.png"> <img align="right" alt="image" width="400" src="https://github.com/BEZEHEL/Proview/blob/main/Screenshot%202024-08-11%20185903.png"> 
+    <img align="left" alt="image" width="auto" src="https://github.com/JoshuaThadi/Proview/blob/main/Screenshot%202024-08-11%20185937.png">
 </div>
