@@ -3,15 +3,10 @@
     <img src="proview-img.png" alt="MasterHead">
 </a>
 
+<div align="left">
 <h1 align="center">Hi 👋, This is a basic Blog website</h1>
 
 <h2 align="center">💡 Just a plain project where you can explore courses.</h2>
-
-<br>
-<div align="center">
-    <img align="left" alt="image" width="500" src="https://github.com/JoshuaThadi/Proview/blob/main/Screenshot%202024-08-11%20185903.png">
-    <img align="left" alt="image" width="500" src="https://github.com/JoshuaThadi/Proview/blob/main/Screenshot%202024-08-11%20185937.png">
-</div>
 <br/>
 
 <h3 align="center">🧲 Connect with me:</h3>
@@ -23,7 +18,7 @@
 
 <div align="center">
     <h3>🌐 Proview Website Link:</h3>
-   <a href="https://joshuathadi.github.io/Proview/">
+   <a href="https://bezehel.github.io/Proview/">
         <img width="120px" src="https://img.shields.io/badge/PROVIEW-1E90FF?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="PROVIEW">
     </a>
 </div>
@@ -42,4 +37,9 @@ extra attention to featured content or information.</b></p>
 <a href="https://getbootstrap.com">
     <img width="150px" src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </a>
+</div>
+</div>
+
+<div align="center">
+    <img align="left" alt="image" width="auto" src="https://github.com/JoshuaThadi/Proview/blob/main/Screenshot%202024-08-11%20185937.png">
 </div>
