@@ -40,6 +40,6 @@ extra attention to featured content or information.</b></p>
 </div>
 </div>
 
-<div align="center">
+<!--<div align="center">
     <img align="left" alt="image" width="auto" src="https://github.com/JoshuaThadi/Proview/blob/main/Screenshot%202024-08-11%20185937.png">
-</div>
+</div>-->
