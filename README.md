@@ -40,6 +40,14 @@ extra attention to featured content or information.</b></p>
 </div>
 </div>
 
+<div align="center">
+    <h3 align="center">📜 MIT Licence</h3>
+    <a href="https://github.com/JoshuaThadi/Proview/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License">
+</a>
+
+</div>
+
 <!--<div align="center">
     <img align="left" alt="image" width="auto" src="https://github.com/JoshuaThadi/Proview/blob/main/Screenshot%202024-08-11%20185937.png">
 </div>-->
