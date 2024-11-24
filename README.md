@@ -6,7 +6,7 @@
 <div align="left">
 <h1 align="center">Hi 👋, This is a basic Blog website</h1>
 
-<h2 align="center">💡 Just a plain project where you can explore courses.</h2>
+<h3 align="center">💡 Just a plain project where you can explore courses.</h3>
 <br/>
 
 <h3 align="center">🧲 Connect with me:</h3>
