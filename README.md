@@ -18,9 +18,9 @@
 
 <div align="center">
     <h3>🌐 Proview Website Link:</h3>
-   <a href="https://proviewblog.netlify.app/" target="_blank">
-    <img width="140px" src="https://img.shields.io/badge/Github-Proview-%236E738D?style=for-the-badge&logo=Google-Chrome&logoColor=%237D6E99" alt="PROVIEW">
-    </a>
+<a href="https://proviewblog.netlify.app/" target="_blank">
+    <img width="180px" src="https://img.shields.io/badge/Github-Proview-%236E738D?style=for-the-badge&logo=Google-Chrome&logoColor=%235E81AC" alt="PROVIEW">
+</a>
 
 </div>
 
@@ -36,7 +36,7 @@ extra attention to featured content or information.</b></p>
     <p> 🚀 Conducted the project with bootstrap 4.4v.</p>
     
 <a href="https://getbootstrap.com" target="_blank">
-    <img width="140px" src="https://img.shields.io/badge/Github-Bootstrap-%236E738D?style=for-the-badge&logo=bootstrap&logoColor=%237D6E99" alt="Bootstrap">
+    <img width="180px" src="https://img.shields.io/badge/Github-Bootstrap-%236E738D?style=for-the-badge&logo=bootstrap&logoColor=%237D6E99" alt="Bootstrap">
 </a>
 </div>
 </div>
