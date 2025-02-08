@@ -19,7 +19,7 @@
 <div align="center">
     <h3>🌐 Proview Website Link:</h3>
 <a href="https://proviewblog.netlify.app/" target="_blank">
-    <img width="180px" src="https://img.shields.io/badge/Github-Proview-%236E738D?style=for-the-badge&logo=Google-Chrome&logoColor=%235E81AC" alt="PROVIEW">
+    <img width="180px" src="https://img.shields.io/badge/Github-Proview-%235E81AC?style=for-the-badge&logo=Google-Chrome&logoColor=%237D6E99" alt="PROVIEW">
 </a>
 
 </div>
